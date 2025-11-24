@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there 👋, I'm Azzam Mufrodi!</h1>
 
-<p align="center"><b>I design experiences.<br>I develop solutions.<br>I deliver impact.</b></p>
+<p align="center"><b>I design experiences.I develop solutions.I deliver impact.</b></p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/23293671/163720236-c7cd098b-8ccd-4632-b93c-e4ebf5931231.gif" alt="Coding" width="350" />
