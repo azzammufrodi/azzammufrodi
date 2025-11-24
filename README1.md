@@ -58,3 +58,19 @@
 <div align="center">
   <sub>Easy going in code, professional in action 🚀</sub>
 </div>
+
+----------------------------------------------------------------------------
+OLD VERSION
+----------------------------------------------------------------------------
+👋 Hi, I’m @Azzam Mufrodi
+👀 I’m interested in Web Developer
+🌱 I’m currently learning HTML,CSS,PHP
+💞️ I’m looking to collaborate on ...
+📫 How to reach me ...
+Just Making Some Code For Fun And Learning New Things About Logic Thanks For Coming To My Profile
+
+REGARDS
+
+Sam In Here ✌️
+
+
