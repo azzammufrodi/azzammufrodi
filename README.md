@@ -19,7 +19,7 @@
 - 🌱 Currently exploring the world of **Web Development** and **Cloud Technology**
 - 🎯 I love building things that simplify life and bring value
 - 📚 Always open to new ideas, collaboration, and learning something fun
-- 💬 Ask me anything about programming, productivity, or my favorite memes!
+- 💬 Ask me anything about programming, or productivity!
 
 ---
 
